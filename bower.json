@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "authors": [
+    "spencersmb <spencer.bigum@gmail.com>"
+  ],
+  "description": "Test bower setup and install windows",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "bourbon": "latest"
+  }
+}
